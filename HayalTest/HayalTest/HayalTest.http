@@ -1,0 +1,6 @@
+@HayalTest_HostAddress = http://localhost:5161
+
+GET {{HayalTest_HostAddress}}/hayaltest/books/
+Accept: application/json
+
+###
